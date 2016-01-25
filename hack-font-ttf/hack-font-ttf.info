@@ -1,5 +1,5 @@
 PRGNAM="hack-font-ttf"
-VERSION="2.018"
+VERSION="2.019"
 HOMEPAGE="http://sourcefoundry.org/hack/"
 DOWNLOAD="https://github.com/chrissimpkins/Hack/releases/download/v2.019/Hack-v2_019-ttf.zip"
 MD5SUM="8d7b2b0b68b1c1b439cca77d47c71bdb"
