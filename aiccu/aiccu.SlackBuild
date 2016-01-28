@@ -1,3 +1,7 @@
+#!/bin/sh
+
+# Slackware build script for aiccu. 
+
 # Copyright 2014 Steven King Michigan, USA
 # All rights reserved.
 #
