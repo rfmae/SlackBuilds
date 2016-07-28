@@ -5,13 +5,11 @@
 # make exactly 11 lines for the formatting to be correct.  It's also
 # customary to leave one space after the ':'.
 
-            |-----handy-ruler------------------------------------------------------|
-passwordsafe: Password Safe --  password database utility
+            |-----handy-ruler----------------------------------------------------|
+passwordsafe: Password Safe -- password database utility
 passwordsafe: 
-passwordsafe: Portable version of popular password manager program
-passwordsafe: pwsafe is the Linux version of the popular Windows PasswordSafe
-passwordsafe: password manager.
-passwordsafe:
-passwordsafe:     https://pwsafe.org
-passwordsafe: Rony Shapiro <ronys@users.sf.net>
-passwordsafe:
+passwordsafe: Like many other such products, commercial and otherwise, it stores
+passwordsafe: your passwords in an encrypted file, allowing you to remember only
+passwordsafe: one password (the "safe combination"), instead of all the username 
+passwordsafe: and password combinations that you use.
+passwordsafe: 
