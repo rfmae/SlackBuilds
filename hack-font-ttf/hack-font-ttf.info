@@ -1,6 +1,6 @@
 PRGNAM="hack-font-ttf"
-VERSION="2.020"
-HOMEPAGE="http://sourcefoundry.org/hack/"
+VERSION="3.002"
+HOMEPAGE="https://sourcefoundry.org/hack/"
 DOWNLOAD="https://github.com/source-foundry/Hack/releases/download/v3.002/Hack-v3.002-ttf.tar.xz"
 MD5SUM="db00e022dd66221614bc32dee47d1c16"
 DOWNLOAD_x86_64=""
