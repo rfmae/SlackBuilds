@@ -8,7 +8,7 @@ passwordsafe supports Yubicos Yubikey, a unique USB and NFC device offering one-
 touch authentication and supporting multiple authentication protocols for all
 devices and platfroms - with no driver or client software needed.
 
-To support Yubicos Yubikey one has to install the optional dependencies 
-libyubikey and ykpers packages.
+If you do not want support for Yubicos Yubikey do not install ykpers and its
+dependency (libyubikey).
 
 Read passwordsafe.info for additional dependencies.
